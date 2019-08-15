@@ -1,0 +1,12 @@
+
+body{
+  background: url(../images/gravel.png);
+  background-repeat: repeat;
+}
+
+#mainArea{
+  background: white;
+  border: 1px solid black;
+}
+
+
